@@ -478,12 +478,6 @@ This project was developed as part of a Computational Theory module to understan
 
 ---
 
-**Academic Integrity Statement**
-
-All implementations in this project are original work created for educational purposes. While the algorithms follow the FIPS PUB 180-4 specification, the code structure, variable naming, comments, and explanatory text are the author's own. External references are cited where appropriate to acknowledge the sources of algorithms, concepts, and theoretical foundations.
-
----
-
 **Author**: Nathan Buyrchiyev  
 **Course**: Computational Theory  
 **Date**: December 2025  
@@ -491,4 +485,6 @@ All implementations in this project are original work created for educational pu
 
 ---
 
-*Note: This implementation is for educational purposes only. For production systems, use well-tested cryptographic libraries such as Python's `hashlib` or dedicated password hashing libraries like `argon2-cffi` or `bcrypt`.*
+**Academic Integrity Statement**
+
+All implementations in this project are original work created for educational purposes. While the algorithms follow the FIPS PUB 180-4 specification, the code structure, variable naming, comments, and explanatory text are the author's own. External references are cited where appropriate to acknowledge the sources of algorithms, concepts, and theoretical foundations.
